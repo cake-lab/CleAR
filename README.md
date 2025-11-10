@@ -5,7 +5,7 @@ The official repo for CleAR: Robust Context-Guided Generative Lighting Estimatio
 
 ## Release Schedule
 
-- [ ] Nov 10, 2025. dataset generation and model training code.
+- [x] Nov 10, 2025. dataset generation and model training code.
 - [ ] Nov 17, 2025. model weights and inference code.
 - [ ] Nov 20, 2025. datasets.
 
